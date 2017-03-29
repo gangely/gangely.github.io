@@ -8,7 +8,7 @@ my repos:
 
 * hello-world
   * a first repo
-* [gea](https://github.com/gangely/gea)
+* [gea](https://github.com/gangely/gea) - misc development
   * [jnz](https://github.com/gangely/gea/tree/master/jnz) folder - experimenting with the JeeNode Zero; code is Mecrisp Forth
     * tmp36.fs - show temperature from tmp36 sensor
     * oled.fs - jeeLabs file modified to not start `go`
