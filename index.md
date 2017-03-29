@@ -6,8 +6,7 @@ this is `index.md` file and should be my front `Page`
 
 my repos:
 
-* hello-world
-  * a first repo
+* hello-world - a first repo
 * [gea](https://github.com/gangely/gea) - misc development
   * [jnz](https://github.com/gangely/gea/tree/master/jnz) folder - experimenting with the JeeNode Zero; code is Mecrisp Forth
     * tmp36.fs - show temperature from tmp36 sensor
@@ -18,9 +17,10 @@ my repos:
   * [tmp36 doc](tmp36.md) - a linked page
 
 
-<aside class="notice">
-Alternative for `Pages`: what about a `docs/` folder (`gea/docs/` ??)
-</aside>
+.. note:: Alternative for `Pages`:
+
+   - what about a `docs/` folder (`gea/docs/` ??)
+
 
 ***
 
